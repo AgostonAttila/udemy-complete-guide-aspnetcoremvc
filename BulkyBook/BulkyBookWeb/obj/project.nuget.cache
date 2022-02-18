@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QX0WMN7qvgs8rocP1fiq/X6BHweR23e6i1be81XHLH3fRc8BSfb7rauHnTQ7a4YJbWxqqV/p0DDSh3KCijIUQQ==",
+  "success": true,
+  "projectFilePath": "E:\\Programming\\Courses\\Course Repos\\UDEMY Complete Guide to ASP.NET Core MVC\\udemy-complete-guide-aspnetcoremvc\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atesz\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\atesz\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
+    "C:\\Users\\atesz\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
+    "C:\\Users\\atesz\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
